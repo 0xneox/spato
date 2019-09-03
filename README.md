@@ -1,0 +1,2 @@
+# spato
+full node 
